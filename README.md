@@ -18,7 +18,7 @@ This project analyzes loan applications and financial transactions to uncover pa
 - Bin loan amounts and applicant ages into readable groups
 - Identify high-risk behaviors and customer profiles
 - Merge datasets to explore deeper patterns and correlations
-- Export cleaned data for modeling or dashboarding
+- Export cleaned data for dashboarding
 
 ---
 
