@@ -1,6 +1,6 @@
-# 💳 Loan Application & Transaction Fraud Analysis
+# Loan Application & Transaction Fraud Analysis
 
-## 📁 Dataset
+## Dataset
 
 **Source:** [Kaggle - Loan Application and Transaction Fraud Detection](https://www.kaggle.com/datasets/prajwaldongre/loan-application-and-transaction-fraud-detection)
 
