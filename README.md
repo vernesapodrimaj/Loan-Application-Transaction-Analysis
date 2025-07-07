@@ -27,7 +27,7 @@ This project analyzes loan applications and financial transactions to uncover pa
 - Python (`pandas`, `seaborn`, `matplotlib`)
 - Jupyter Notebook
 - GitHub (version control & documentation)
-- Tableau (optional dashboarding)
+- Tableau 
 
 ---
 
