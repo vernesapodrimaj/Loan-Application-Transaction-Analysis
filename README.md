@@ -160,7 +160,6 @@ plt.legend(title='Transaction Type')
 plt.tight_layout()
 plt.show()
 
-df_merged.to_csv("cleaned_loan_transaction_data.csv", index=False)
-
+df_merged.to_csv("/Users/vernesapodrimaj/Documents/cleaned_loan_transaction_data.csv", index=False)
 
 
