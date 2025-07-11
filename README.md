@@ -166,3 +166,4 @@ df_loan.to_csv("/Users/vernesapodrimaj/Documents/loan_applications_cleaned.csv",
 **Loan Application & Transaction Fraud Dashboard** (https://public.tableau.com/views/LoanapplicationTransactionfraud/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+[View Dashboard on Tableau](https://public.tableau.com/views/LoanapplicationTransactionfraud/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
