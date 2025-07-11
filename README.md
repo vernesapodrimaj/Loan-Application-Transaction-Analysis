@@ -161,6 +161,7 @@ plt.tight_layout()
 plt.show()
 
 df_loan.to_csv("/Users/vernesapodrimaj/Documents/loan_applications_cleaned.csv", index=False)
+```
 
 **[View Tableau Dashboard]:  
 **Loan Application & Transaction Fraud Dashboard** (https://public.tableau.com/views/LoanapplicationTransactionfraud/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
